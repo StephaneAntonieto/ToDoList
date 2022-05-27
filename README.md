@@ -1,6 +1,6 @@
 # ToDoList
 
-## Laboratory for Node.JS studies using Express, BodyParser, Mongoose and Lodash libs.
+## Laboratory for Node.JS studies using Express, BodyParser, Mongoose and Lodash.
 
 ### The application runs on Heroku server with MongoDB database.
 
